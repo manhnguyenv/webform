@@ -1,5 +1,5 @@
 ﻿using Dapper;
-using DTO;
+using Entity;
 using Npgsql;
 using System;
 using System.Collections.Generic;
