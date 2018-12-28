@@ -13,7 +13,6 @@ namespace WebApplication2
         {
             List<Person> list = new List<Person>();
 
-
             /*
              * CREATE TABLE public.persons( id serial NOT NULL, name character varying(45) NOT NULL, PRIMARY KEY (id) ) WITH (OIDS = FALSE) TABLESPACE pg_default;
              */
