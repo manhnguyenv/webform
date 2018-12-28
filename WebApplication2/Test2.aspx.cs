@@ -19,7 +19,7 @@ namespace WebApplication2
         protected void Page_Load(object sender, EventArgs e)
         {
             string name = string.Empty;
-            for (int i = 0; i < 163; i++)
+            for (int i = 1; i < 163; i++)
             {
                 if (i % 2 == 0)
                     name = RandomNameGenerator.NameGenerator.Generate(RandomNameGenerator.Gender.Male);
@@ -112,7 +112,8 @@ namespace WebApplication2
             string returnValue = "Delete person successfully!";
             if (int.TryParse(id, out int intId))
             {
-                m_Dict.TryRemove(intId, out returnValue);
+                m_Dict.TryRemove(intId, out string name);
+                returnValue = $"Delete person '{name}' successfully!";
             }
             return returnValue;
         }
