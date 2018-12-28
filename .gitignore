@@ -15,3 +15,15 @@
 /Entity/obj/Debug
 /WebApplication2/obj/Debug
 /WebApplication2/bin
+/Entity/bin/Debug/Entity.pdb
+/Entity/bin/Debug/Entity.dll
+/Entity/bin/Debug
+/.vs/WebApplication1/v15/Server/sqlite3/storage.ide-wal
+/.vs/WebApplication1/v15/Server/sqlite3/storage.ide-shm
+/.vs/WebApplication1/v15/Server/sqlite3/storage.ide
+/.vs/WebApplication1/v15/Server/sqlite3/db.lock
+/.vs/WebApplication1/v15/Server/sqlite3
+/.vs/WebApplication1/v15/.suo
+/.vs/WebApplication1/v15
+/WebApplication1/obj/Debug
+/WebApplication1/bin
