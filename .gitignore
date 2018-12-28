@@ -3,3 +3,15 @@
 ################################################################################
 
 /.vs/WebApplication2/v15/Server/sqlite3/storage.ide-wal
+/.vs/WebApplication2/v15/Server/sqlite3/storage.ide-shm
+/.vs/WebApplication2/v15/Server/sqlite3/storage.ide
+/.vs/WebApplication2/v15/Server/sqlite3/db.lock
+/.vs/WebApplication2/v15/Server/sqlite3
+/.vs/WebApplication2/v15/.suo
+/.vs/config/applicationhost.config
+/.vs/config
+/DTO/obj/Debug
+/DTO/bin/Debug
+/Entity/obj/Debug
+/WebApplication2/obj/Debug
+/WebApplication2/bin
