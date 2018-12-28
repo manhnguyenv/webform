@@ -14,5 +14,10 @@
             Id = id;
             Name = name;
         }
+
+        public override string ToString()
+        {
+            return string.Concat("{", $"'Id': {this.Id}', 'Name': '{this.Name}.'", "}");
+        }
     }
 }
